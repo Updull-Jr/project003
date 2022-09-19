@@ -3,3 +3,10 @@
 
 # Ada Library Information
 *.ali
+
+# Environments
+.venv
+.venv/
+venv
+venv/
+
